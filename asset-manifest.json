@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/node-express-server/static/css/main.8c24ae54.css",
+    "main.js": "/node-express-server/static/js/main.fb3fd6e6.js",
+    "index.html": "/node-express-server/index.html",
+    "main.8c24ae54.css.map": "/node-express-server/static/css/main.8c24ae54.css.map",
+    "main.fb3fd6e6.js.map": "/node-express-server/static/js/main.fb3fd6e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c24ae54.css",
+    "static/js/main.fb3fd6e6.js"
+  ]
+}
